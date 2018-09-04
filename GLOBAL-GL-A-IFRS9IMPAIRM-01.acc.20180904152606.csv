@@ -1,0 +1,5 @@
+﻿account_id,person_id,native_first_name,native_middle_name,native_last_name,last_login_timestamp,creation_timestamp,account_type,account_status,native_account_status,system_region,system_entity
+HACN\40001,40001,USER,,40001,12301899000000,12301899000000,,,,PRODUCTION,UK
+HACN\40010,40010,USER,,40010,12301899000000,12301899000000,,,,PRODUCTION,UK
+HACN\50000,50000,USER,,50000,12301899000000,12301899000000,,,,PRODUCTION,UK
+TRAILER,20180904152606,3
